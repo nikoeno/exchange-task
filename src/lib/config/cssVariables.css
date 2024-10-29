@@ -1,0 +1,7 @@
+body {
+  --colorPrimary: #0055ff;
+  --colorPrimaryHover: #0033cc;
+  --colorGrey: #cccccc;
+  --colorGreyMedium: #888888;
+  --colorError: #f44336;
+}
